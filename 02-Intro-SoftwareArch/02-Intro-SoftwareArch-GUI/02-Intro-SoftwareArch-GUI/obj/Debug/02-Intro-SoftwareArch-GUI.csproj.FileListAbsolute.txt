@@ -1,0 +1,9 @@
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\bin\Debug\Intro_SoftwareArch_GUI.exe.config
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\bin\Debug\Intro_SoftwareArch_GUI.exe
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\bin\Debug\Intro_SoftwareArch_GUI.pdb
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\obj\Debug\Intro_SoftwareArch_GUI.Form1.resources
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\obj\Debug\Intro_SoftwareArch_GUI.Properties.Resources.resources
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\obj\Debug\02-Intro-SoftwareArch-GUI.csproj.GenerateResource.Cache
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\obj\Debug\02-Intro-SoftwareArch-GUI.csproj.CoreCompileInputs.cache
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\obj\Debug\Intro_SoftwareArch_GUI.exe
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-GUI\02-Intro-SoftwareArch-GUI\obj\Debug\Intro_SoftwareArch_GUI.pdb

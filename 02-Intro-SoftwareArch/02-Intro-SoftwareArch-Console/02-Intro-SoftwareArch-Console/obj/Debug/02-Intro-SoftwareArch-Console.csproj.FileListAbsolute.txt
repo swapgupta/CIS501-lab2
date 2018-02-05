@@ -1,0 +1,13 @@
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe.config
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.pdb
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\02-Intro-SoftwareArch-Console.csproj.CoreCompileInputs.cache
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.exe
+C:\Users\Raja\Documents\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.pdb
+C:\Users\Raja\Documents\CIS501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe.config
+C:\Users\Raja\Documents\CIS501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.exe
+C:\Users\Raja\Documents\CIS501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\bin\Debug\Intro_SoftwareArch_Console.pdb
+C:\Users\Raja\Documents\CIS501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\02-Intro-SoftwareArch-Console.csprojResolveAssemblyReference.cache
+C:\Users\Raja\Documents\CIS501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\02-Intro-SoftwareArch-Console.csproj.CoreCompileInputs.cache
+C:\Users\Raja\Documents\CIS501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.exe
+C:\Users\Raja\Documents\CIS501\02-Intro-SoftwareArch\02-Intro-SoftwareArch-Console\02-Intro-SoftwareArch-Console\obj\Debug\Intro_SoftwareArch_Console.pdb
